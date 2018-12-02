@@ -15,7 +15,7 @@ val akka_version = "2.5.16"
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-stream" % akka_version,
   "com.typesafe.akka" %% "akka-actor-typed" % akka_version,
-  "com.typesafe.akka" %% "akka-http" % "10.1.4",
+  "com.typesafe.akka" %% "akka-http" % "10.1.5",
   
   "com.github.scopt" %% "scopt" % "3.7.0",
   "org.scalactic" %% "scalactic" % "3.0.5",
